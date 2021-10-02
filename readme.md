@@ -1,3 +1,5 @@
+##  Route fixed for Laravel 8 Translation Manager 
+
 ## Laravel 5 Translation Manager
 
 ### For Laravel 4, please use the [0.1 branch](https://github.com/barryvdh/laravel-translation-manager/tree/0.1)!
